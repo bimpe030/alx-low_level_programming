@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - prints putchar and a new line
  * Return: Always 0
