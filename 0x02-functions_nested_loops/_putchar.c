@@ -1,11 +1,11 @@
 #include "main.h"
-#include "unistd.h"
+#include <unistd.h>
 
 /**
  * _putchar - writes the character c to student
  * @c: the character to print
  *
- * Return: On success
+ * Return: On success 1
  */
 int _putchar(char c)
 {
