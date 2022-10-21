@@ -3,12 +3,12 @@
 /**
  * print_times_table - prints time table of n
  *
- * @n: takes number inpu
+ * @n: takes number input
  */
 
 void print_times_table(int n)
 {
-	int prod, mult, num;
+int prod, mult, num;
 
 	if (n <= 15 && n >= 0)
 	{
